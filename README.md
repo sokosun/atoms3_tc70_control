@@ -2,6 +2,8 @@
 
 This project demonstrates TP-Link TC70 and AtomS3 synchronization.
 
+https://github.com/sokosun/atoms3_tc70_control/assets/130550408/c052af6d-ea99-46c7-8e34-2b2a472416f2
+
 <div><video controls src="./onvif_sync.mp4" muted="false"></video></div>
 
 ## Usage
